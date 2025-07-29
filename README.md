@@ -7,3 +7,5 @@ curl --location 'localhost:9091/producer/publish' \
     "email": "test@gmail.com",
     "contactNo": "1234567890"
 }'
+
+1. https://github.com/Java-Techie-jt/kafka-error-handling
